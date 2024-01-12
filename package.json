@@ -19,11 +19,11 @@
   "dependencies": {
     "chalk": "^1.1.1",
     "debug": "^2.1.3",
-    "lodash": "^3.6.0",
+    "lodash": "^4.17.21",
     "path-exists": "^1.0.0"
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "grunt": "^1.5.3",
     "grunt-cli": "^0.1.13",
     "grunt-contrib-jshint": "^0.11.1",
     "grunt-jscs": "^1.6.0",
